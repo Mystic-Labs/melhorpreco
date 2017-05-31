@@ -1,3 +1,6 @@
+.. image:: https://badge.waffle.io/artmario/melhorpreco.png?label=ready&title=Ready 
+ :target: https://waffle.io/artmario/melhorpreco?utm_source=badge
+ :alt: 'Stories in Ready'
 ###################
 What is CodeIgniter
 ###################
