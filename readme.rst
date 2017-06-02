@@ -1,9 +1,10 @@
-.. image:: https://badge.waffle.io/artmario/melhorpreco.png?label=ready&title=Ready 
- :target: https://waffle.io/artmario/melhorpreco?utm_source=badge
+.. image:: https://badge.waffle.io/Mystic-Labs/melhorpreco.svg?label=ready&title=Ready 
+ :target: https://waffle.io/Mystic-Labs/melhorpreco 
  :alt: 'Stories in Ready'
 ###################
 What is Melhor preço
 ###################
+https://waffle.io/Mystic-Labs/melhorpreco/join
 
 Melhor preço is an Application for people who search for groceries items using a Mobile 
 device(android at first). Its goal is to enable you to buy a product faster 
