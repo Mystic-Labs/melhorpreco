@@ -1,6 +1,6 @@
-.. image:: https://badge.waffle.io/Mystic-Labs/melhorpreco.png?label=backlog&title=Backlog 
- :target: https://waffle.io/Mystic-Labs/melhorpreco?utm_source=badge
- :alt: 'Stories in Backlog'
+.. image:: https://badge.waffle.io/Mystic-Labs/melhorpreco.svg?label=ready&title=Ready 
+ :target: https://waffle.io/Mystic-Labs/melhorpreco 
+ :alt: 'Stories in Ready'
 ###################
 What is Melhor preço
 ###################
