@@ -42,9 +42,12 @@ such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
 ************
-Installation
+Ferramentas Padrões do Projeto
 ************
-
+DBeaver Free Universal SQL Client
+Code Igniter
+UML: Draw.io
+Waffle.io
 
 **********************
 Encontros / Discussões
