@@ -44,9 +44,9 @@ issues, as well as missing features.
 ************
 Ferramentas Padrões do Projeto
 ************
-DBeaver Free Universal SQL Client
-Code Igniter
-UML: Draw.io
+DBeaver Free Universal SQL Client;
+Code Igniter;
+UML: Draw.io;
 Waffle.io
 
 **********************
