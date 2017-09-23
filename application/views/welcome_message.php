@@ -73,7 +73,7 @@
                     <a href="#be-the-first" class="btn btn-secondary btn-lg scroll">Saiba mais</a>
                   </div>
                   <div class="col-xs-6 text-left wow fadeInUp" data-wow-delay="1.4s">
-                    <a href="#invite" class="btn btn-primary btn-lg scroll">Quero divulgar minhas ofertas!</a>
+                      <a href="index.php/login" class="btn btn-primary btn-lg scroll">Quero divulgar minhas ofertas!</a>
                   </div>
                 </div><!--End Button Row-->  
               </div>

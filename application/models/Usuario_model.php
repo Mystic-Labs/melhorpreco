@@ -1,13 +1,17 @@
 <?php
 class Usuario_model extends CI_Model {
+    
+    public function __construct() {
+        parent::__construct();
+        // Your own constructor code
+    }
 
-	public function login ($credentials, $json = false) {
-		
+    public function tentaLogar ($credentials, $json = false) {
 	
-		$sql = "SELECT * FROM usuario WHERE email ='".$credentials[0]."' AND pwd = '".$credentials[1]."'";
-                $sqlTelefone = "SELECT * FROM usuario WHERE fone ='".$credentials[0]."' AND pwd = '".$credentials[1]."'";
+		$sql = "SELECT * FROM usuario WHERE email ='".$credentials['email']."' AND pwd = '".$credentials['email']."'";
+                $sqlTelefone = "SELECT * FROM usuario WHERE fone ='".$credentials['password']."' AND pwd = '".$credentials['password']."'";
 		
-
+                
 		$result = $this->db->query ($sql);
 		
 		$row = $result->row ();

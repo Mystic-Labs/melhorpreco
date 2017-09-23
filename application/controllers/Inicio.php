@@ -22,4 +22,18 @@ class Inicio extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
 	}
+        
+        
+	public function login()
+	{
+		try {
+                $this->load->view('templates/header.php');
+                $this->load->view('login/index.php');
+                $this->load->view('templates/footer.php');
+            } catch (Exception $ex) {
+                print_r("erro na exibição da página");
+            }
+	}
+        
+        
 }
