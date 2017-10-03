@@ -10,22 +10,18 @@ Melhor preço is an Application for people who search for groceries items using 
 device(android at first). Its goal is to enable you to buy a product faster 
 than you could if you were visiting every store, by providinga rich set of 
 libraries for commonly needed tasks, as well as a simpleinterface and logical 
-structure to access these libraries.CodeIgniter letsyou creatively focus on your 
+structure to access these libraries.CodeIgniter lets you creatively focus on your 
 project by minimizing the amount of code needed for a given task.
 
 
-daqui pra baixo é o original
+Daqui pra baixo é o original
 ---------------------------------------------------------------------------------------------------------
-
-
-
 
 *******************
 Release Information
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
+
 <https://codeigniter.com/download>`_ page.
 
 **************************
@@ -46,11 +42,21 @@ such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
 ************
-Installation
+Ferramentas Padrões do Projeto
 ************
+DBeaver Free Universal SQL Client;
+Code Igniter;
+UML: Draw.io;
+Waffle.io
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+**********************
+Encontros / Discussões
+**********************
+Grupo Discord: Mystic-Labs
+Reuniões:
+
+Ex.: Ter: 20:00
+
 
 *******
 License
@@ -71,10 +77,3 @@ Resources
 
 Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
 or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
